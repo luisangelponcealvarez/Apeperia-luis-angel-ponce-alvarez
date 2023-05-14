@@ -4,7 +4,8 @@
 
 ### Miniatura
 
-![Apeperia](./img/miniatura.jpeg)
+![Apeperia](./img/miniatura.png)
 
-### Visita el sitio 
+### Visita el sitio
+
 <a href="https://luisangelponcealvarez.github.io/Apeperia-luis-angel-ponce-alvarez/">Apeperia site</a>
